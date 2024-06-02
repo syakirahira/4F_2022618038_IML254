@@ -577,14 +577,12 @@ padding-bottom: 5px;
 border-radius: 5px;
 }
 
-
-
 /* Style My Loves page */
 .containerML {
 display: grid;
 place-items: center;
 margin-inline: .8rem;
-padding-block: 3rem;
+padding-block: 10rem;
 } 
 
 .card__container {
@@ -726,7 +724,7 @@ width: 500px;
 }
 
 .card__data {
-width: 350px;
+width: 300px;
 padding-inline: 3rem;
 }
 }
