@@ -603,6 +603,8 @@ padding-bottom: 5px;
 border-radius: 5px;
 }
 
+
+
 /* Style My Loves page */
 .containerML {
 display: grid;
@@ -736,9 +738,9 @@ column-gap: 1.5rem;
 }
 
 /* Big screen */
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1080px) {
 .containerML {
-height: 79vh;
+height: 100vh;
 }
 
 .card__container {
